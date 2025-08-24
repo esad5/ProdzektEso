@@ -1,0 +1,89 @@
+[
+  {
+    "province": "Sarajevski Kanton",
+    "locations": [
+      {
+        "proviceDetails": "Sarajevo, Ilidža",
+        "address": "Zmaja od Bosne 33, Sarajevo",
+        "proviceCode": "71000",
+        "contact": "+387 33 123 456",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Vogošća, Sarajevo",
+        "address": "Ulica Patriotske lige 12, Vogošća",
+        "proviceCode": "71320",
+        "contact": "+387 33 456 789",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Ilidža, Sarajevo",
+        "address": "Rustempašina bb, Ilidža",
+        "proviceCode": "71210",
+        "contact": "+387 33 654 321",
+        "path": "/appointment",
+        "website": "#"
+      }
+    ]
+  },
+  {
+    "province": "Tuzlanski Kanton",
+    "locations": [
+      {
+        "proviceDetails": "Tuzla, Lukavac",
+        "address": "Solni trg 1, Tuzla",
+        "proviceCode": "75000",
+        "contact": "+387 35 123 456",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Gračanica, Tuzla",
+        "address": "Ulica Branilaca grada 15, Gračanica",
+        "proviceCode": "75320",
+        "contact": "+387 35 456 789",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Lukavac, Tuzla",
+        "address": "Titova 10, Lukavac",
+        "proviceCode": "75300",
+        "contact": "+387 35 654 321",
+        "path": "/appointment",
+        "website": "#"
+      }
+    ]
+  },
+  {
+    "province": "Hercegovačko-neretvanski Kanton",
+    "locations": [
+      {
+        "proviceDetails": "Mostar, Čapljina",
+        "address": "Bulevar narodne revolucije 25, Mostar",
+        "proviceCode": "88000",
+        "contact": "+387 36 123 456",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Konjic, Mostar",
+        "address": "Maršala Tita 45, Konjic",
+        "proviceCode": "88400",
+        "contact": "+387 36 456 789",
+        "path": "/appointment",
+        "website": "#"
+      },
+      {
+        "proviceDetails": "Čapljina, Mostar",
+        "address": "Gabela bb, Čapljina",
+        "proviceCode": "88300",
+        "contact": "+387 36 654 321",
+        "path": "/appointment",
+        "website": "#"
+      }
+    ]
+  }
+]

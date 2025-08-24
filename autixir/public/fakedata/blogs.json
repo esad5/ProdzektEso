@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "title": "Česti problemi sa uljem",
+    "category": "Auti",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["popular", "desgin", "ux", "usability", "develop", "icon"],
+    "date": "20",
+    "publishDate": "Juni 22, 2025",
+    "month": "Oct",
+    "type": null,
+    "views": 232,
+    "comments": 35,
+    "author": {
+      "name": "Eso",
+      "image": "",
+      "desig": "Admin"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Kada pregledati kočnice",
+    "category": "Servisi",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": "https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0",
+    "videoType": "youtube",
+    "audioUrl": null,
+    "tags": ["auto parts", "oil", "dealer", "oil change", "body color"],
+    "date": "22",
+    "publishDate": "Juni 22, 2025",
+    "month": "Nov",
+    "type": null,
+    "views": 250,
+    "comments": 35,
+    "author": {
+      "name": "Miro",
+      "image": "",
+      "desig": "CEO"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Električni auti",
+    "category": "Auti",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["usability", "develop", "icon", "car", "service", "repairs"],
+    "date": "15",
+    "publishDate": "Juni 22, 2025",
+    "month": "Dec",
+    "type": null,
+    "views": 249,
+    "comments": 35,
+    "author": {
+      "name": "Damir",
+      "image": "",
+      "desig": "COO"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Prvi dan na stazi ",
+    "category": "Utrke",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/837045328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "tags": ["popular", "desgin", "ux"],
+    "date": "10",
+    "publishDate": "Juni 22, 2025",
+    "month": "Jan",
+
+    "type": null,
+    "views": 248,
+    "comments": 35,
+    "author": {
+      "name": "Almir",
+      "image": "",
+      "desig": "Admin"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Kako da vam gume duže traju",
+    "category": "Auti",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "image": null,
+    "imageLarge": null,
+    "videoUrl": null,
+    "videoType": null,
+    "audioUrl": null,
+    "tags": ["auto parts", "oil", "dealer", "oil change", "body color"],
+    "date": "5",
+    "publishDate": "Juni 22, 2025",
+    "month": "Feb",
+
+    "type": null,
+    "views": 247,
+    "comments": 35,
+    "author": {
+      "name": "Jasmin",
+      "image": "",
+      "desig": "Admin"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Karoserija i retrovizori",
+    "shortTitle": "Pregledaj sve",
+    "path": "/shop?category=body-parts",
+    "path2": "/shop",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Farovi i rasvjeta",
+    "shortTitle": "Karoserija i retrovizori",
+    "path": "/shop?category=lights",
+    "path2": "/shop?category=body-parts",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Kočnice, ovjes i upravljanje",
+    "shortTitle": "Unutrašnja oprema",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=accessories",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Unutrašnja oprema",
+    "shortTitle": "Vanjska oprema",
+    "path": "/shop?category=accessories",
+    "path2": "/shop?category=accessories",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Vanjska oprema",
+    "shortTitle": "Farovi i rasvjeta",
+    "path": "/shop?category=accessories",
+    "path2": "/shop?category=lights",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Kočnice, ovjes i upravljanje",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Felge i točkovi",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Izolator",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Felge i točkovi",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Ležaj",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Felge i točkovi",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=wheels",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  },
+  {
+    "title": "Felge i točkovi",
+    "shortTitle": "Popularno",
+    "path": "/shop?category=wheels",
+    "path2": "/shop?category=popularno",
+    "items": [
+      { "name": "Zadržač ležaja točka", "shortTitle": "", "path": "#" },
+      { "name": "Set za konverziju kočnica", "shortTitle": "", "path": "#" },
+      { "name": "Izolator nosača amortizera", "shortTitle": "", "path": "#" },
+      { "name": "Staklo zadnjeg svjetla", "shortTitle": "", "path": "#" }
+    ]
+  }
+]

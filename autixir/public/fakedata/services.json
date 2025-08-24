@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Postoji mnogo varijacija",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka motora",
+    "duration": "1500"
+  },
+  {
+    "id": 2,
+    "title": "Većina je pretrpjela izmjene u nekom obliku.",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka automobila",
+    "duration": "1700"
+  },
+  {
+    "id": 3,
+    "title": "Izvrsnost u auto uslugama od 1996.",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka filtera",
+    "duration": "1900"
+  },
+  {
+    "id": 4,
+    "title": "Postoji mnogo varijacija",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka guma",
+    "duration": "2100"
+  },
+  {
+    "id": 5,
+    "title": "Većina je pretrpjela izmjene u nekom obliku.",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka kočnica",
+    "duration": "2400"
+  },
+  {
+    "id": 6,
+    "title": "Izvrsnost u auto uslugama od 1996.",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Duis aute irure dolor u boli i patnji u zadovoljstvu, ali nema bola ili patnje.",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka stakala",
+    "duration": "2700"
+  },
+  {
+    "id": 7,
+    "title": "Dijagnostika motora",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka stakala",
+    "duration": "1500"
+  },
+  {
+    "id": 8,
+    "title": "Oštećenja na vozilima",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka motora",
+    "duration": "1700"
+  },
+  {
+    "id": 9,
+    "title": "Ispušavanje klima uređaja",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka motora",
+    "duration": "1900"
+  },
+  {
+    "id": 10,
+    "title": "Servis ABS kočnica",
+    "services": [
+      "Popravka gume s čišćenjem",
+      "Prilagođavanje guma",
+      "Provjera i popravka guma",
+      "Zamjena i bojanje guma"
+    ],
+    "desc": "Sagittis purus sit amet volutpat consequat mauris nunc congue nisi",
+    "detailsImg": null,
+    "img": null,
+    "category": "popravka motora",
+    "duration": "2100"
+  }
+]
